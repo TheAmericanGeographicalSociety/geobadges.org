@@ -15,11 +15,11 @@ Each badge has a coordinating criteria page that lists what must be done to achi
 
 ## How do I view my earned Geobadges?
 	
-Use the toolbar at the top left of the screen to navigate to your Backpack! Here is where all your badges are displayed and organized.
+Click on the "Account" page using the menu on the right side of the screen. After you login, select "Badges" and see all your badges are displayed and organized.
 
 ## What can I do with my Geobadges?
 	
-Geobadges should be a source of pride! Using the toolbar at the top left of the page, navigate to your Backpack, where your badges are displayed! Select the badge you’d like to show off, and from its landing page select “Share Badge.” Here you can retrieve the link to the badge, post it on social media networks (Facebook, Linked In, Twitter, Pinterest) or receive the HTML code to post elsewhere. Be sure to tag us!
+Geobadges should be a source of pride! Using your Account page, navigate to your Badges and select export! Your Geobadges will download directly onto your computer and you can share on all your social media networks (Facebook, Linked In, Twitter, Pinterest). Be sure to tag GeoBadges and the American Geographical Society for a repost or retweet!
 
 
 
